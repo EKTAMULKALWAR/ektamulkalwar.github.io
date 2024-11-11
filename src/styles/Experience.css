@@ -1,0 +1,57 @@
+/* src/styles/Experience.css */
+
+.experience {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .experience h1 {
+    text-align: center;
+    color: #3e497a;
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .experience-section {
+    margin-bottom: 30px;
+  }
+  
+  .experience-section h2 {
+    color: #2c3e50;
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .experience-item,
+  .project-item {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+  }
+  
+  .experience-item h3,
+  .project-item h3 {
+    color: #34495e;
+    font-size: 22px;
+    margin-bottom: 5px;
+  }
+  
+  .skills-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .skills-list li {
+    display: inline-block;
+    background-color: #3498db;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+    margin: 5px;
+    font-size: 16px;
+  }
+  
